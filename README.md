@@ -1,7 +1,9 @@
 # Node-Removal-Optimization-with-Graph-Theory
-Name: Tochi Onwuasoanya
-Email: tonwuaso@u.rochester.edu
-4/26/22
+- Name: Tochi Onwuasoanya
+- Email: tonwuaso@u.rochester.edu
+- 4/26/22
+
+
 The purpose of this project is to build a program that reads a text file and build a graph from it. It also removes nodes by degree ("-d" argument) and by collective influence ("-r" argument). 
 
 This project contains 3 classes, GraphLayout.java, StopContagion.java, and CollectiveInfluence.java. 
